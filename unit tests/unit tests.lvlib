@@ -8,4 +8,6 @@
 
 </Property>
 	<Item Name="test Get LabVIEW Version.vi" Type="VI" URL="../test Get LabVIEW Version.vi"/>
+	<Item Name="test Read Project File.vi" Type="VI" URL="../test Read Project File.vi"/>
+	<Item Name="Tests Launcher.vi" Type="VI" URL="../Tests Launcher.vi"/>
 </Library>
