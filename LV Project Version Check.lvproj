@@ -12,11 +12,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Project Provider" Type="Folder">
-			<Item Name="LVVersionCheck_Global_Init.vi" Type="VI" URL="../Project Provider/LVVersionCheck_Global_Init.vi"/>
-			<Item Name="LVVersionCheck_Global_Interface.vi" Type="VI" URL="../Project Provider/LVVersionCheck_Global_Interface.vi"/>
-			<Item Name="LVVersionCheck_Global_OnCommand.vi" Type="VI" URL="../Project Provider/LVVersionCheck_Global_OnCommand.vi"/>
-			<Item Name="LVVersionCheck_Item_Interface.vi" Type="VI" URL="../Project Provider/LVVersionCheck_Item_Interface.vi"/>
-			<Item Name="LVVersionCheck_Provider_Interface.vi" Type="VI" URL="../Project Provider/LVVersionCheck_Provider_Interface.vi"/>
+			<Item Name="ProjectVersionCheck_Global_Init.vi" Type="VI" URL="../Project Provider/ProjectVersionCheck_Global_Init.vi"/>
+			<Item Name="ProjectVersionCheck_Global_Interface.vi" Type="VI" URL="../Project Provider/ProjectVersionCheck_Global_Interface.vi"/>
+			<Item Name="ProjectVersionCheck_Global_OnCommand.vi" Type="VI" URL="../Project Provider/ProjectVersionCheck_Global_OnCommand.vi"/>
+			<Item Name="ProjectVersionCheck_Item_Interface.vi" Type="VI" URL="../Project Provider/ProjectVersionCheck_Item_Interface.vi"/>
+			<Item Name="ProjectVersionCheck_Provider_Interface.vi" Type="VI" URL="../Project Provider/ProjectVersionCheck_Provider_Interface.vi"/>
 		</Item>
 		<Item Name="LV Project Version Check.lvlib" Type="Library" URL="../LV Project Version Check.lvlib"/>
 		<Item Name="unit tests.lvlib" Type="Library" URL="../unit tests/unit tests.lvlib"/>
