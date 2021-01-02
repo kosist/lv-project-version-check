@@ -5,7 +5,7 @@ Of course, if you use software version control like git or SVN - then it is not 
 
 So if you had such a situation at least once, then I believe this small tool will be useful for you.
 
-![Warning message](vipm/Warning message.png)
+![Warning message](https://github.com/kosist/lv-project-version-check/blob/develop/vipm/Warning%20message.png)
 
 ## What it does:
 
