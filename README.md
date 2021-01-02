@@ -15,3 +15,6 @@ When LabVIEW project is opened, this tool checks version of the project. If it i
 
 It does not check versions of opened LabVIEW VIs, libraries, classes, etc. Main reason - it will be not practical at all. Many reusable libraries/toolkits are implemented in the lowest possible/useful LabVIEW version, so then they are mass-compiled when added to the actual code. And it would be quite bothering to see every time some warning window while opening such VIs.
 
+## How to contribute:
+This toolkit has just a little of functionallity, but I will be very happy for any type of feedback/contribution. Please feel free to post issues, ideas, or do fixes/improvements of the code. LabVIEW 2015 SP1 is used, package is built using VIPM 2020.3.
+
