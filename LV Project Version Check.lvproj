@@ -18,7 +18,7 @@
 			<Item Name="LVVersionCheck_Item_Interface.vi" Type="VI" URL="../Project Provider/LVVersionCheck_Item_Interface.vi"/>
 			<Item Name="LVVersionCheck_Provider_Interface.vi" Type="VI" URL="../Project Provider/LVVersionCheck_Provider_Interface.vi"/>
 		</Item>
-		<Item Name="Check project version.vi" Type="VI" URL="../Check project version.vi"/>
+		<Item Name="LV Project Version Check.lvlib" Type="Library" URL="../LV Project Version Check.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
