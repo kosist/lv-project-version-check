@@ -18,7 +18,4 @@ It does not check versions of opened LabVIEW VIs, libraries, classes, etc. Main 
 ## System Requirements:
 This toolkit is compatible with LabVIEW 2015 and higher, Windows OS.
 It has just a little of functionallity, but I will be very happy for any type of feedback/contribution. Please feel free to post issues, ideas, or do fixes/improvements of the code.
-List of used software:
-**LabVIEW 2015 SP1**
-**Caraya Unit Test Framework v1.1.0.119**
-**VIPM 2020.3**
+List of used software: **LabVIEW 2015 SP1**, **Caraya Unit Test Framework v1.1.0.119**, **VIPM 2020.3**.
