@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-03 00:22:54" Modified_Date="2021-01-06 21:57:17" Creator="kosist" Comments="" ID="f48e0e544a0b9f95cc8b66f7f1f1623e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-03 00:22:54" Modified_Date="2021-01-08 17:28:44" Creator="kosist" Comments="" ID="96caabda510524d0c3c093e81802e6c5">
   <Library_General_Settings>
     <Package_File_Name>kosist_lib_Project_Version_Check</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.15</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..</Library_Output_Folder>
@@ -19,7 +19,7 @@
     <Package_Dependencies/>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
-      <Post-Build_VI>Post-Build Custom Action.vi</Post-Build_VI>
+      <Post-Build_VI/>
       <Pre-Install_VI/>
       <Post-Install_VI/>
       <Pre-Uninstall_VI/>
