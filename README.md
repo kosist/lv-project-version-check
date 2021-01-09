@@ -1,6 +1,6 @@
 # LabVIEW Project Version Check toolkit
 
-Have you ever had a situation, when some old project was accidentally opened in newer LabVIEW, and resaved to that higher version?
+Have you ever had a situation, when some old project was accidentally opened in newer LabVIEW, and was resaved to that higher version?
 Of course, if you use software version control like git or SVN - then it is not a problem, because you can simply reset your working branch to previous state. But what if meanwhile you've implemented some changes, and after that re-saved all the project? It's a pity because after rollback, all those changes should be implemented again. And in case when project is stored outside git or SVN repository, then the situation is even worth...
 
 So if you had such a situation at least once, then I believe this small tool could be useful for you.
